@@ -24,6 +24,7 @@ const footer = () => {
             <div className="row1">
                 <div class="row">
                 <img src={LOGO} className="righticon" alt=""/>
+                    <a></a>
                     <i className="fa fa-facebook-f"></i>
                     <i className="fa fa-instagram"></i>
                     </div>
